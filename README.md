@@ -1,24 +1,28 @@
 <h1 align="center">Hi 👋, I'm Shubham Kapoor</h1>
 <h3 align="center">Backend Developer | AI/ML Enthusiast | CS Student</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;AI%2FML+Enthusiast;Spring+Boot+%7C+Java+%7C+Go+Learner;Open+Source+Contributor;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing *Computer Science Engineering* in *Bengaluru*
-- 💻 Backend Developer specializing in *Spring Boot*
-- 🤖 Passionate about *AI/ML*
-- 🔍 Currently learning *GO* ,*LLD* 
-- 🤝 Open for collaboration on impactful *backend projects*
-- 📫 Reach me at: *work.shubhamkapoor2005@gmail.com*
+- 🎓 CSE Undergrad based in **Bengaluru**
+- 💻 Skilled in **Java + Spring Boot** backend development  
+- 🤖 Exploring **AI/ML** and its real-world applications  
+- 🚀 Currently learning **Go**, **Low-Level Design**, and scalable backend systems  
+- 🤝 Open to collaboration on **backend-intensive or AI-powered projects**
+- 📫 Reach me at: **work.shubhamkapoor2005@gmail.com**
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shubham-kapoor-159545303/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Shubham_k0212/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -29,45 +33,39 @@
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,python,js,css,go" height="50"/>
 </p>
 
 ---
 
----
-
-## 📊 GitHub Stats
-
-> 📅 *250+ contributions* this year  
-> 🧾 *135+ total commits*
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamk0205&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamk0205&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamk0205&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamk0205&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhamk0205&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhamk0205&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubhamk0205&theme=tokyonight&utcOffset=+5.5" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhamk0205&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubhamk0205&theme=tokyonight&utcOffset=5.5"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhamk0205&theme=tokyonight"/>
 </p>
-
 
 ---
 
-## 💡 Fun Fact
 
-> “Most bugs are fixed by reading code, not writing it — debugging is secretly where real learning happens 🐞”
+## 🧠 Fun Fact
+
+> “Most bugs are fixed by **reading** code, not writing it — debugging is where real learning happens 🐞”
+
+---
+
+##  GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
